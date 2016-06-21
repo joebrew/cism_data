@@ -1,0 +1,5 @@
+/documentation
+/snapshots
+credentials.yaml
+*.csv
+*.RData
